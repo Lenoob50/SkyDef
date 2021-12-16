@@ -1,0 +1,9 @@
+name: SkyDefender
+author: Lenoob_	
+version: 1.0.2
+main: fr.lenoob.skydef.main
+commands:
+  revive:
+  sdstart:
+  sdstop:
+  team:
